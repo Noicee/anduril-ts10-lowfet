@@ -1,3 +1,15 @@
+# Anduril 2 Wurkkos TS10v1 (single color AUX) lowfet version
+
+**0711 ts10-lowfet**
+
+This is a customized version of the original TS10 firmware, with a lower FET configuration.
+
+This is the same as ts10-rgbaux-lowfet, but it modifies the ts10 (single color aux) configuration instead.
+This may be useful for individuals that may want to run their TS10 at a lower power level for temperature concerns.
+This may also be useful for emitter-swapped TS10v1's that use a lower Vf (or less overcurrent resistant) emitter.
+
+Download ts10-lowfet .hex file: [here](https://github.com/Noicee/anduril-ts10-lowfet/releases/download/r2025-07-07/anduril.wurkkos-ts10-lowfet.r2025-07-07.zip)
+
 # Anduril Flashlight Firmware + FSM Flashlight UI Toolkit
 
 Anduril is a user interface for flashlights.  It is written with FSM, a UI
